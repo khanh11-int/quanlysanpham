@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\banht\\source\\repos\\quanlysanpham\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0BCEC5-FC89-477B-8F7C-D8FEB2F38D56}|quanlysanpham\\quanlysanpham.csproj|C:\\Users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0BCEC5-FC89-477B-8F7C-D8FEB2F38D56}|quanlysanpham\\quanlysanpham.csproj|solutionrelative:quanlysanpham\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0BCEC5-FC89-477B-8F7C-D8FEB2F38D56}|quanlysanpham\\quanlysanpham.csproj|C:\\Users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\formchuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0BCEC5-FC89-477B-8F7C-D8FEB2F38D56}|quanlysanpham\\quanlysanpham.csproj|solutionrelative:quanlysanpham\\formchuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0BCEC5-FC89-477B-8F7C-D8FEB2F38D56}|quanlysanpham\\quanlysanpham.csproj|c:\\users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\fromdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0BCEC5-FC89-477B-8F7C-D8FEB2F38D56}|quanlysanpham\\quanlysanpham.csproj|solutionrelative:quanlysanpham\\fromdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0BCEC5-FC89-477B-8F7C-D8FEB2F38D56}|quanlysanpham\\quanlysanpham.csproj|C:\\Users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\fromdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0BCEC5-FC89-477B-8F7C-D8FEB2F38D56}|quanlysanpham\\quanlysanpham.csproj|solutionrelative:quanlysanpham\\fromdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0BCEC5-FC89-477B-8F7C-D8FEB2F38D56}|quanlysanpham\\quanlysanpham.csproj|C:\\Users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\formchuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0BCEC5-FC89-477B-8F7C-D8FEB2F38D56}|quanlysanpham\\quanlysanpham.csproj|solutionrelative:quanlysanpham\\formchuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0BCEC5-FC89-477B-8F7C-D8FEB2F38D56}|quanlysanpham\\quanlysanpham.csproj|C:\\Users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0BCEC5-FC89-477B-8F7C-D8FEB2F38D56}|quanlysanpham\\quanlysanpham.csproj|solutionrelative:quanlysanpham\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fromdangnhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\Fromdangnhap.cs",
+              "RelativeDocumentMoniker": "quanlysanpham\\Fromdangnhap.cs",
+              "ToolTip": "C:\\Users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\Fromdangnhap.cs [Design]",
+              "RelativeToolTip": "quanlysanpham\\Fromdangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:27:09.18Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Formthongke.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\Formthongke.cs",
+              "RelativeDocumentMoniker": "quanlysanpham\\Formthongke.cs",
+              "ToolTip": "C:\\Users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\Formthongke.cs [Design]",
+              "RelativeToolTip": "quanlysanpham\\Formthongke.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:27:07.094Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Formchuongtrinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\Formchuongtrinh.cs",
+              "RelativeDocumentMoniker": "quanlysanpham\\Formchuongtrinh.cs",
+              "ToolTip": "C:\\Users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\Formchuongtrinh.cs [Design]",
+              "RelativeToolTip": "quanlysanpham\\Formchuongtrinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:33:50.177Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fromdangnhap.cs",
+              "DocumentMoniker": "C:\\Users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\Fromdangnhap.cs",
+              "RelativeDocumentMoniker": "quanlysanpham\\Fromdangnhap.cs",
+              "ToolTip": "C:\\Users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\Fromdangnhap.cs",
+              "RelativeToolTip": "quanlysanpham\\Fromdangnhap.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwDsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:59:03.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formchuongtrinh.cs",
+              "DocumentMoniker": "C:\\Users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\Formchuongtrinh.cs",
+              "RelativeDocumentMoniker": "quanlysanpham\\Formchuongtrinh.cs",
+              "ToolTip": "C:\\Users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\Formchuongtrinh.cs",
+              "RelativeToolTip": "quanlysanpham\\Formchuongtrinh.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAUwJQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:49:38.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Formthongke.cs",
+              "DocumentMoniker": "C:\\Users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\Formthongke.cs",
+              "RelativeDocumentMoniker": "quanlysanpham\\Formthongke.cs",
+              "ToolTip": "C:\\Users\\banht\\source\\repos\\quanlysanpham\\quanlysanpham\\Formthongke.cs",
+              "RelativeToolTip": "quanlysanpham\\Formthongke.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAUwGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:01:28.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

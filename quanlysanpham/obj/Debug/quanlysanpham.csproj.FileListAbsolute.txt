@@ -1,0 +1,12 @@
+C:\Users\banht\source\repos\quanlysanpham\quanlysanpham\obj\Debug\quanlysanpham.csproj.AssemblyReference.cache
+C:\Users\banht\source\repos\quanlysanpham\quanlysanpham\obj\Debug\quanlysanpham.Formchuongtrinh.resources
+C:\Users\banht\source\repos\quanlysanpham\quanlysanpham\obj\Debug\quanlysanpham.Fromdangnhap.resources
+C:\Users\banht\source\repos\quanlysanpham\quanlysanpham\obj\Debug\quanlysanpham.Properties.Resources.resources
+C:\Users\banht\source\repos\quanlysanpham\quanlysanpham\obj\Debug\quanlysanpham.csproj.GenerateResource.cache
+C:\Users\banht\source\repos\quanlysanpham\quanlysanpham\obj\Debug\quanlysanpham.csproj.CoreCompileInputs.cache
+C:\Users\banht\source\repos\quanlysanpham\quanlysanpham\bin\Debug\quanlysanpham.exe.config
+C:\Users\banht\source\repos\quanlysanpham\quanlysanpham\bin\Debug\quanlysanpham.exe
+C:\Users\banht\source\repos\quanlysanpham\quanlysanpham\bin\Debug\quanlysanpham.pdb
+C:\Users\banht\source\repos\quanlysanpham\quanlysanpham\obj\Debug\quanlysanpham.exe
+C:\Users\banht\source\repos\quanlysanpham\quanlysanpham\obj\Debug\quanlysanpham.pdb
+C:\Users\banht\source\repos\quanlysanpham\quanlysanpham\obj\Debug\quanlysanpham.Formthongke.resources
